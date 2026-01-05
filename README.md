@@ -4,7 +4,7 @@
 
 ## About This Project
 
-This is my **very first web development project** - a basic recipe website built with HTML. While it might seem simple, this project represents an important milestone: taking the leap from learning theory to building something real that lives on the web.
+This is my **very first web development project**, a basic recipe website built with HTML. While it might seem simple, this project represents an important milestone: taking the leap from learning theory to building something real that lives on the web.
 
 ## Description
 
@@ -38,4 +38,4 @@ This is just the beginning. Every line of code I write brings me one step closer
 
 **Built with:** HTML  
 **Part of:** [The Odin Project Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations)  
-**Date:** January 5, 2026
+**Date:** January 05, 2026
