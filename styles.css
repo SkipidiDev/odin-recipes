@@ -19,3 +19,11 @@ body {
 .one{
   font-style: italic;
 }
+
+.two {
+  background-color: #4a3c31;
+  color: #d8cbb8;
+  margin-top: 30px;
+  padding: 8px;
+}
+
