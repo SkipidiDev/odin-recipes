@@ -3,3 +3,8 @@ body {
   font-size: 15px;
 }
 
+.container {
+  margin: 0 auto;
+  background-color: #d8cbb8;
+  padding: 16px;
+}
