@@ -8,3 +8,11 @@ body {
   background-color: #d8cbb8;
   padding: 16px;
 }
+
+.title,
+.one,
+.three {
+  text-align: center;
+  color: #4a3c31;
+}
+
