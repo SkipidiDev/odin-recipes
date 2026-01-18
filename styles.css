@@ -36,4 +36,9 @@ a.three {
 .three {
   font-size: 13px;
 }
+
+p.three {
+  font-style: italic;
+}
+
 }
