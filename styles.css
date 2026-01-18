@@ -29,6 +29,7 @@ body {
 
 a.three {
   display: block;
+  font-style: italic;
 }
 
 ul {
