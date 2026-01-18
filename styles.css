@@ -41,4 +41,6 @@ p.three {
   font-style: italic;
 }
 
+.title {
+  margin-top: 0;
 }
